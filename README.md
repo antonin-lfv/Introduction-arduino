@@ -23,10 +23,13 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 # Index
 
 1. [Arduino](#Arduino)
-    1. [Prise en main](#Prise-en-main)
-        1. [Circuit simple](#Circuit-simple)
+    1. [Premiers pas](#Premier-pas)
+        1. [Matériel](#Materiel)
+        2. [LED clignotante](#LED-clignotante)
+        3. [LED en série](#LED-en-série)
     3. [Robot Elegoo](#Robot-Elegoo)
-        1. [Montage](#Montage)
+        1. [Présentation](#presentation)
+        2. [Montage](#Montage)
 2. [RaspberryPi](#RaspberryPi)
 3. [ROS](#Ros)
 
