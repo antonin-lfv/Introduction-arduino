@@ -111,9 +111,37 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 	<p/>
 
 
+‣ Programme :
 
+```c
+#define LED_PIN 8
+#define BUTTON_PIN 7
 
+byte lastButtonState = LOW;
+byte ledState = LOW;
 
+void setup() {
+  pinMode(LED_PIN, OUTPUT);
+  pinMode(BUTTON_PIN, INPUT);
+}
+
+void loop() {
+  byte buttonState = digitalRead(BUTTON_PIN);
+  if (buttonState != lastButtonState) {
+    lastButtonState = buttonState;
+    if (buttonState == LOW) {
+      ledState = (ledState == HIGH) ? LOW: HIGH;
+      digitalWrite(LED_PIN, ledState);
+    }
+  }
+}
+```
+
+‣ Résultat :
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63207451/131406957-7a7544bc-bc36-4695-9e7d-22d1f81f0952.gif" height="400">
+	<p/>
 
 
 <br>
