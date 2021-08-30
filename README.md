@@ -26,7 +26,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
     1. [Premiers pas](#Premiers-pas)
         1. [Matériel](#Materiel)
         2. [LED clignotante](#LED-clignotante)
-        3. [LED en série](#LED-en-série)
+        3. [LED avec interrupteur](#LED-avec-interrupteur)
     3. [Robot Elegoo](#Robot-Elegoo)
         1. [Présentation](#presentation)
         2. [Montage](#Montage)
@@ -102,7 +102,7 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 <img src="https://user-images.githubusercontent.com/63207451/131389379-cfc6918e-1a3c-479b-80d6-7bb8af7ab545.gif" height="450">
 	<p/>
 
-### 3. LED en série
+### 3. LED avec interrupteur
 
 
 
