@@ -23,7 +23,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 # Index
 
 1. [Arduino](#Arduino)
-    1. [Premiers pas](#Premier-pas)
+    1. [Premiers pas](#Premiers-pas)
         1. [Matériel](#Materiel)
         2. [LED clignotante](#LED-clignotante)
         3. [LED en série](#LED-en-série)
@@ -34,10 +34,18 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 3. [ROS](#Ros)
 
 <br>
+<br>
 
-# prérequis
+# Arduino
 
-Logiciel [Arduino](https://www.arduino.cc/en/software) disponible sur Mac, Windows et Linux.
+## Premiers pas
+
+### 1. Matériel
+
+‣ Pour la partie programmation, j'utilise le logiciel [Arduino](https://www.arduino.cc/en/software), disponible sur Mac, Windows et Linux.
+
+‣ Pour la partie électronique, j'utilise une carte Arduino Uno Elegoo disponible avec le robot [Elegoo](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1), et pour la breadboard et tous les composants j'ai acheté un [kit de composants](https://www.amazon.fr/dp/B093BZVCT2/ref=cm_sw_r_cp_api_glt_i_WCNA03QZNRC70HV5HRB7?_encoding=UTF8&psc=1) sur Amazon.
+
 
 <br>
 
