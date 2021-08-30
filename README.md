@@ -107,9 +107,8 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 ‣ Branchements :
 
 <p align="center">
-      <img src="https://user-images.githubusercontent.com/63207451/131406025-b13bb696-5c95-418c-a62a-e0fbad8ef27e.jpeg" height="450">
+      <img src="https://user-images.githubusercontent.com/63207451/131406133-7d2105a3-8853-4936-9488-da7b28e8e68c.jpeg" height="450">
 	<p/>
-
 
 
 
