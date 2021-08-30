@@ -24,9 +24,9 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 
 1. [La carte Arduino](#La-carte-Arduino)
     1. [Premiers pas](#Premiers-pas)
-        1. [Matériel](#Materiel)
-        2. [LED clignotante](#LED-clignotante)
-        3. [LED avec interrupteur](#LED-avec-interrupteur)
+        1. [1. Matériel](#1.-Materiel)
+        2. [2. LED clignotante](#2.-LED-clignotante)
+        3. [3. LED avec interrupteur](#3.-LED-avec-interrupteur)
     3. [Robot Elegoo](#Robot-Elegoo)
         1. [Présentation](#presentation)
         2. [Montage](#Montage)
