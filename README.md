@@ -69,9 +69,10 @@ La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que
 
 ‣ Branchements :
 
-![IMG_9667](https://user-images.githubusercontent.com/63207451/131386637-66ce16c6-93bb-44d0-9f6c-a92942717dc0.jpeg)
-![IMG_9668](https://user-images.githubusercontent.com/63207451/131386700-c1aff9a2-0863-4447-88d6-8bcdef4fe5e9.jpeg)
-
+<p align="center">
+      <img src="https://user-images.githubusercontent.com/63207451/131386637-66ce16c6-93bb-44d0-9f6c-a92942717dc0.jpeg" height="800">
+      <img src="https://user-images.githubusercontent.com/63207451/131386700-c1aff9a2-0863-4447-88d6-8bcdef4fe5e9.jpeg" height="800">
+	<p/>
 
 
 
