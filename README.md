@@ -22,7 +22,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 
 # Index
 
-1. [Arduino](#Arduino)
+1. [La carte Arduino](#La-carte-Arduino)
     1. [Premiers pas](#Premiers-pas)
         1. [Matériel](#Materiel)
         2. [LED clignotante](#LED-clignotante)
@@ -36,7 +36,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 <br>
 <br>
 
-# Arduino
+# La carte Arduino
 
 ## Premiers pas
 
