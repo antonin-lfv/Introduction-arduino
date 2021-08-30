@@ -104,8 +104,11 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 
 ### 3. LED avec interrupteur
 
+‣ Branchements :
 
-
+<p align="center">
+      <img src="https://user-images.githubusercontent.com/63207451/131406025-b13bb696-5c95-418c-a62a-e0fbad8ef27e.jpeg" height="450">
+	<p/>
 
 
 
