@@ -80,6 +80,8 @@ La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que
 La borne positive de la LED (branche longue) est en position d63 et la borne négative (branche courte) est reliée à une patte de la résistance en d62, l'autre patte de la résistance arrive sur un connecteur de la ligne noire qui sera utilisée comme ligne de masse.
 Pour finir, On relie ça à la carte Arduino. La ligne de masse de la breadboard (fil noir) est reliée à une des bornes GND de la carte (borne de masse de la carte). La borne + de la LED (fil rouge) est reliée à la borne numérique (digital) numéro 2 de la carte.
 
+<br>
+
 <p align="center">
       <img src="https://user-images.githubusercontent.com/63207451/131386637-66ce16c6-93bb-44d0-9f6c-a92942717dc0.jpeg" height="400">
       <img src="https://user-images.githubusercontent.com/63207451/131386700-c1aff9a2-0863-4447-88d6-8bcdef4fe5e9.jpeg" height="400">
@@ -105,6 +107,7 @@ On règle la borne numérique numéro 2 de la carte Arduino en mode sortie (OUTP
 Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui permet de commander la présence ou non de courant sur une borne numérique de la carte Arduino. Ainsi, en jouant avec la commande delay() qui permet de faire des pauses dans l'exécution on obtient une LED clignotante.
 
 - Résultat :
+<br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131389379-cfc6918e-1a3c-479b-80d6-7bb8af7ab545.gif" height="450">
@@ -113,6 +116,7 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 ### 3. Circuit LED avec interrupteur
 
 - Branchements :
+<br>
 
 <p align="center">
       <img src="https://user-images.githubusercontent.com/63207451/131406133-7d2105a3-8853-4936-9488-da7b28e8e68c.jpeg" height="450">
@@ -146,6 +150,7 @@ void loop() {
 ```
 
 - Résultat :
+<br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131406957-7a7544bc-bc36-4695-9e7d-22d1f81f0952.gif" height="400">
@@ -154,6 +159,7 @@ void loop() {
 ### 4. Feu tricolore et piéton
 
 - Branchements :
+<br>
 
 <p align="center">
       <img src="https://user-images.githubusercontent.com/63207451/131541867-2846579e-8e17-4b05-8184-1286aa6c0a24.jpeg" height="450">
@@ -206,6 +212,7 @@ void loop() {
 ```
 
 - Résultat :
+<br>
 
 ## Programmation Arduino avec le Robot Elegoo
 
