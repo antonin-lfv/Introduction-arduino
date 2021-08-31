@@ -32,8 +32,10 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
         2. [Circuit LED clignotante](#2-Circuit-LED-clignotante)
         3. [Circuit LED avec interrupteur](#3-Circuit-LED-avec-interrupteur)
     3. [Programmation Arduino avec le Robot Elegoo](#Programmation-Arduino-avec-le-Robot-Elegoo)
-        1. [Présentation](#presentation)
+        1. [Présentation du robot](#presentation-du-robot)
         2. [Montage](#Montage)
+        3. [Test de ses fonctionnalités natives](#Test-de-ses-fonctionnalités-natives)
+        4. [re-Programmation du robot](#reProgrammation-du-robot)
 2. [RaspberryPi](#RaspberryPi)
 3. [ROS](#Ros)
 
