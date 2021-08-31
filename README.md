@@ -72,7 +72,7 @@ La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que
 
 ### 2. LED clignotante
 
-‣ Branchements :
+- Branchements :
 
 La borne positive de la LED (patte longue) est en position d63 et la borne négative (patte courte) est reliée à une patte de la résistance en d62, l'autre patte de la résistance arrive sur un connecteur de la ligne noire qui sera utilisée comme ligne de masse.
 Pour terminer, il reste à relier l'ensemble à la carte Arduino. La ligne de masse de la breadboard (fil noir) est reliée à une des bornes GND de la carte (borne de masse de la carte). La borne + de la LED (fil rouge) est reliée à la borne numérique (digital) numéro 2 de la carte.
@@ -83,7 +83,7 @@ Pour terminer, il reste à relier l'ensemble à la carte Arduino. La ligne de ma
 	<p/>
 
 
-‣ Programme :
+- Programme :
 
 ```c
 void setup(){
@@ -101,7 +101,7 @@ void loop(){
 On règle la borne numérique numéro 2 de la carte Arduino en mode sortie (OUTPUT) dans la fonction setup. <br>
 Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui permet de commander la présence ou non de courant sur une borne numérique de la carte Arduino. Ainsi, en jouant avec la commande delay() qui permet de faire des pauses dans l'exécution on obtient une LED clignotante.
 
-‣ Résultat :
+- Résultat :
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131389379-cfc6918e-1a3c-479b-80d6-7bb8af7ab545.gif" height="450">
@@ -109,14 +109,14 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 
 ### 3. LED avec interrupteur
 
-‣ Branchements :
+- Branchements :
 
 <p align="center">
       <img src="https://user-images.githubusercontent.com/63207451/131406133-7d2105a3-8853-4936-9488-da7b28e8e68c.jpeg" height="450">
 	<p/>
 
 
-‣ Programme :
+- Programme :
 
 ```c
 #define LED_PIN 8
@@ -142,7 +142,7 @@ void loop() {
 }
 ```
 
-‣ Résultat :
+- Résultat :
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131406957-7a7544bc-bc36-4695-9e7d-22d1f81f0952.gif" height="400">
@@ -150,6 +150,9 @@ void loop() {
 
 
 <br>
+
+<br>
+
 <br>
 
 <p align="center">
