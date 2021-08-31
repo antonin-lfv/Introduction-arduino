@@ -76,8 +76,8 @@ La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que
 
 - Branchements :
 
-La borne positive de la LED (patte longue) est en position d63 et la borne négative (patte courte) est reliée à une patte de la résistance en d62, l'autre patte de la résistance arrive sur un connecteur de la ligne noire qui sera utilisée comme ligne de masse.
-Pour terminer, il reste à relier l'ensemble à la carte Arduino. La ligne de masse de la breadboard (fil noir) est reliée à une des bornes GND de la carte (borne de masse de la carte). La borne + de la LED (fil rouge) est reliée à la borne numérique (digital) numéro 2 de la carte.
+La borne positive de la LED (branche longue) est en position d63 et la borne négative (branche courte) est reliée à une patte de la résistance en d62, l'autre patte de la résistance arrive sur un connecteur de la ligne noire qui sera utilisée comme ligne de masse.
+Pour finir, On relie ça à la carte Arduino. La ligne de masse de la breadboard (fil noir) est reliée à une des bornes GND de la carte (borne de masse de la carte). La borne + de la LED (fil rouge) est reliée à la borne numérique (digital) numéro 2 de la carte.
 
 <p align="center">
       <img src="https://user-images.githubusercontent.com/63207451/131386637-66ce16c6-93bb-44d0-9f6c-a92942717dc0.jpeg" height="400">
