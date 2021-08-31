@@ -105,8 +105,7 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 
 - Résultat :
 
-La LED clignote ! Elle s'allume et s'éteint toutes les 1000 millisecondes.
-<p align="right">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131389379-cfc6918e-1a3c-479b-80d6-7bb8af7ab545.gif" height="450">
 	<p/>
 
