@@ -31,6 +31,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
         1. [Matériel](#1-Matériel)
         2. [Circuit LED clignotante](#2-Circuit-LED-clignotante)
         3. [Circuit LED avec interrupteur](#3-Circuit-LED-avec-interrupteur)
+        4. [Feu tricolore et piéton](#4-Feu-tricolore-et-piéton)
     3. [Programmation Arduino avec le Robot Elegoo](#Programmation-Arduino-avec-le-Robot-Elegoo)
         1. [Présentation du robot](#presentation-du-robot)
         2. [Montage](#Montage)
@@ -150,6 +151,56 @@ void loop() {
 <img src="https://user-images.githubusercontent.com/63207451/131406957-7a7544bc-bc36-4695-9e7d-22d1f81f0952.gif" height="400">
 	<p/>
 
+### 3. Feu tricolore et piéton
+
+- Branchements :
+
+- Programme :
+
+```c
+// Temps par couleur et feu
+int tempsAttente_rouge = 5000;
+int tempsAttente_orange = 1000;
+int tempsAttente_vert = 5000;
+
+int temps_traversee = 1000; // Temps pour laisser les piétons et voitures passer entre les feux
+
+ 
+void setup(){
+  pinMode(10, OUTPUT);    // Rouge voiture
+  pinMode(9, OUTPUT);     // orange voiture
+  pinMode(8, OUTPUT);     // Vert voiture
+  
+  pinMode(4, OUTPUT);     // Rouge piéton
+  pinMode(3, OUTPUT);     // Vert Piéton
+}
+
+void loop() {
+  digitalWrite(10, HIGH);     // feu rouge voiture allumé
+  delay(temps_traversee);     
+  
+  digitalWrite(4, LOW);       // feu rouge piéton éteint
+  digitalWrite(3, HIGH);      // feu vert piéton allumé
+  delay(tempsAttente_rouge);
+  
+  digitalWrite(3, LOW);       // feu vert piéton éteint
+  digitalWrite(4, HIGH);      // feu rouge piéton allumé
+  delay(temps_traversee);
+  
+  digitalWrite(10, LOW);      // feu rouge voiture éteint
+  digitalWrite(8, HIGH);      // feu vert voiture allumé
+  delay(tempsAttente_vert);
+  
+  digitalWrite(9, HIGH);      // feu orange voiture allumé
+  digitalWrite(8, LOW);       // feu vert voiture éteint
+  delay(tempsAttente_orange);
+  
+  digitalWrite(9, LOW);       // feu orange voiture éteint
+}
+
+```
+
+- Résultat :
 
 ## Programmation Arduino avec le Robot Elegoo
 
