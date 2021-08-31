@@ -107,6 +107,8 @@ void loop(){
 On règle la borne numérique numéro 2 de la carte Arduino en mode sortie (OUTPUT) dans la fonction setup. <br>
 Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui permet de commander la présence ou non de courant sur une borne numérique de la carte Arduino. Ainsi, en jouant avec la commande delay() qui permet de faire des pauses dans l'exécution on obtient une LED clignotante.
 
+<br>
+
 - Résultat :
 <br>
 
