@@ -87,6 +87,7 @@ Pour finir, On relie ça à la carte Arduino. La ligne de masse de la breadboard
       <img src="https://user-images.githubusercontent.com/63207451/131386700-c1aff9a2-0863-4447-88d6-8bcdef4fe5e9.jpeg" height="400">
 	<p/>
 
+<br>
 
 - Programme :
 
@@ -112,6 +113,7 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131389379-cfc6918e-1a3c-479b-80d6-7bb8af7ab545.gif" height="450">
 	<p/>
+<br>
 
 ### 3. Circuit LED avec interrupteur
 
@@ -122,6 +124,7 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
       <img src="https://user-images.githubusercontent.com/63207451/131406133-7d2105a3-8853-4936-9488-da7b28e8e68c.jpeg" height="450">
 	<p/>
 
+<br>
 
 - Programme :
 
@@ -148,6 +151,7 @@ void loop() {
   }
 }
 ```
+<br>
 
 - Résultat :
 <br>
@@ -155,6 +159,7 @@ void loop() {
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131406957-7a7544bc-bc36-4695-9e7d-22d1f81f0952.gif" height="400">
 	<p/>
+<br>
 
 ### 4. Feu tricolore et piéton
 
@@ -165,6 +170,7 @@ void loop() {
       <img src="https://user-images.githubusercontent.com/63207451/131541867-2846579e-8e17-4b05-8184-1286aa6c0a24.jpeg" height="450">
       <img src="https://user-images.githubusercontent.com/63207451/131541880-de832cd1-5251-4e71-bc86-f6971fedf710.jpeg" height="450">
 	<p/>
+<br>
 
 - Programme :
 
@@ -210,6 +216,7 @@ void loop() {
 }
 
 ```
+<br>
 
 - Résultat :
 <br>
