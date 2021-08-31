@@ -151,7 +151,7 @@ void loop() {
 <img src="https://user-images.githubusercontent.com/63207451/131406957-7a7544bc-bc36-4695-9e7d-22d1f81f0952.gif" height="400">
 	<p/>
 
-### 3. Feu tricolore et piéton
+### 4. Feu tricolore et piéton
 
 - Branchements :
 
