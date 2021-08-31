@@ -29,8 +29,8 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 1. [La carte Arduino](#La-carte-Arduino)
     1. [Premiers pas avec la carte](#Premiers-pas-avec-la-carte)
         1. [Matériel](#1-Matériel)
-        2. [LED clignotante](#2-LED-clignotante)
-        3. [LED avec interrupteur](#3-LED-avec-interrupteur)
+        2. [Circuit LED clignotante](#2-Circuit-LED-clignotante)
+        3. [Circuit LED avec interrupteur](#3-Circuit-LED-avec-interrupteur)
     3. [Robot Elegoo](#Robot-Elegoo)
         1. [Présentation](#presentation)
         2. [Montage](#Montage)
@@ -70,7 +70,7 @@ La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que
 
 <br>
 
-### 2. LED clignotante
+### 2. Circuit LED clignotante
 
 - Branchements :
 
@@ -107,7 +107,7 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 <img src="https://user-images.githubusercontent.com/63207451/131389379-cfc6918e-1a3c-479b-80d6-7bb8af7ab545.gif" height="450">
 	<p/>
 
-### 3. LED avec interrupteur
+### 3. Circuit LED avec interrupteur
 
 - Branchements :
 
