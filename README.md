@@ -1,6 +1,7 @@
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/63207451/131482670-46e3fc62-2ace-42b9-a928-88a4af8f5f00.png" height="400">
+	<img src="https://user-images.githubusercontent.com/63207451/131482957-0f2b9fdb-4e04-4945-87fe-5b193d2c86d4.png" height="400">
 <p/>
+
 
 <h1 align="center">Robotique</h1>
 
