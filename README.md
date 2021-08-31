@@ -27,7 +27,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 # Index
 
 1. [La carte Arduino](#La-carte-Arduino)
-    1. [Premiers pas](#Premiers-pas)
+    1. [Premiers pas avec la carte](#Premiers-pas-avec-la-carte)
         1. [Matériel](#1-Matériel)
         2. [LED clignotante](#2-LED-clignotante)
         3. [LED avec interrupteur](#3-LED-avec-interrupteur)
@@ -42,11 +42,11 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 
 # La carte Arduino
 
-## Premiers pas
+## Premiers pas avec la carte
 
 ### 1. Matériel
 
-‣ Pour la partie **programmation**, j'utilise le logiciel [Arduino](https://www.arduino.cc/en/software), disponible sur Mac, Windows et Linux. 
+- Pour la partie **programmation**, j'utilise le logiciel [Arduino](https://www.arduino.cc/en/software), disponible sur Mac, Windows et Linux. 
 
 L'interface de programmation du logiciel est la suivante : 
 
@@ -64,8 +64,9 @@ void loop(){
 La première fonction **setup** est automatiquement exécutée une seule fois lorsque le programme demarre. C'est dans cette fonction qu'il faut mettre toutes les initialisations nécessaires au fonctionnnement du programme.
 
 La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que nous allons mettre les instructions pour controler l'alimentation notamment.  <br>
+<br>
 
-‣ Pour la partie **électronique**, j'utilise une carte Arduino Uno Elegoo disponible avec le robot [Elegoo](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1), et pour la breadboard et tous les composants j'ai acheté un [kit de composants](https://www.amazon.fr/dp/B093BZVCT2/ref=cm_sw_r_cp_api_glt_i_WCNA03QZNRC70HV5HRB7?_encoding=UTF8&psc=1) sur Amazon.
+- Pour la partie **électronique**, j'utilise une carte Arduino Uno Elegoo disponible avec le robot [Elegoo](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1), et pour la breadboard et tous les composants j'ai acheté un [kit de composants](https://www.amazon.fr/dp/B093BZVCT2/ref=cm_sw_r_cp_api_glt_i_WCNA03QZNRC70HV5HRB7?_encoding=UTF8&psc=1) sur Amazon.
 
 <br>
 
