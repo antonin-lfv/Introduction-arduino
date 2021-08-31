@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/63207451/131482670-46e3fc62-2ace-42b9-a928-88a4af8f5f00.png" height="400">
+<p/>
 
 <h1 align="center">Robotique</h1>
 
