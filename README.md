@@ -267,7 +267,7 @@ Caractéristiques :
 <center>
 	
 |Les modes|Les capteurs|
-|---|---|
+|:--------|:-----------|
 |- Évitement d'obstacles|- Capteur ultrasons|
 |- Suivi de ligne|- Module de suivi de ligne|
 |- Suivi d'un objet qui se déplace devant lui|- Caméra|
