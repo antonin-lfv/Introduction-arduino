@@ -173,6 +173,7 @@ On change l'état de la sortie de la LED dès que le bouton est pressé.
 - Branchements :
 
 Vous aurez besoin de 2 LED vertes, 2 LED rouges, 1 LED Orange, 6 fils et 5 résistances de 220Ω. Toutes les LED sont branchées directement et indépendamment des autres.
+Les 3 LED du haut représentent le feu pour les voitures, et les 2 LED du bas représentent le feu pour les piétons.
 <br>
 
 <p align="center">
