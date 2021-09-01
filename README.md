@@ -221,6 +221,12 @@ void loop() {
 <br>
 
 - Résultat :
+
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63207451/131638632-52da7fbb-754d-4c10-91b9-fba06333820f.gif" height="400">
+	<p/>
+
 <br>
 
 ## Programmation Arduino avec le Robot Elegoo
