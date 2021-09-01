@@ -249,6 +249,9 @@ Contenu de la boite :
 
 <br>
 
+|oui|oui|
+|hdi|khbd|
+
 <p align="right">
 <img src="https://user-images.githubusercontent.com/63207451/131650872-58a341e2-a141-4c84-8338-78201fa76978.jpeg" height="400">
 	<p/>
