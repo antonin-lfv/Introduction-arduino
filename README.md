@@ -171,6 +171,8 @@ On change l'état de la sortie de la LED dès que le bouton est pressé.
 ### 4. Feu tricolore et piéton
 
 - Branchements :
+
+Vous aurez besoin de 2 LED vertes, 2 LED rouges, 1 LED Orange, 6 fils et 5 résistances de 220Ω. Toutes les LED sont branchées directement et indépendamment des autres.
 <br>
 
 <p align="center">
@@ -223,6 +225,8 @@ void loop() {
 }
 
 ```
+
+On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de passer.
 <br>
 
 - Résultat :
