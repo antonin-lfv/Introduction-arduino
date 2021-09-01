@@ -245,7 +245,7 @@ On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de 
 
 ### Présentation du robot
 
-Le robot [Elegoo V4.0](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1) est un robot commandé par une carte Arduino Uno. 
+Le robot [Elegoo V4.0](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1) est un robot commandé par une carte Arduino Uno. Il est conçu pour les débutants dans le domaine de la robotique et de l'arduino.
 
 Contenu de la boite :
 
@@ -254,10 +254,6 @@ Contenu de la boite :
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131652126-f72489bb-a37c-4d6c-881f-0e2f7d7f0034.png" height="300">
 <img src="https://user-images.githubusercontent.com/63207451/131652194-d1e1caeb-0113-4363-a1ab-843c6352b4fa.png" height="300">
-	<p/>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/63207451/131650872-58a341e2-a141-4c84-8338-78201fa76978.jpeg" height="400">
 	<p/>
 
 <br>
@@ -282,6 +278,32 @@ Caractéristiques :
 
 <br>
 
+Chassis avec les moteurs :
+
+<p align="center">
+![IMG_9688](https://user-images.githubusercontent.com/63207451/131740427-8e0de7da-89b4-4e3b-bc3e-2c4fb9dcb53c.jpeg)
+</p>
+<br>
+
+Chassis avec la carte arduino, la caméra, le capteur ultrasons et la batterie :
+
+<p align="center">
+![IMG_9691](https://user-images.githubusercontent.com/63207451/131740545-be2181ea-a9ec-4063-9842-f01b64d00cc5.jpeg)
+</p>
+<br>
+
+Branchements :
+
+<p align="center">
+![IMG_9692](https://user-images.githubusercontent.com/63207451/131740583-e1e404ef-617d-4bbb-963e-ea6c6f4b4c66.jpeg)
+</p>
+<br>
+
+Robot fini :
+	
+<p align="center">
+![IMG_9694](https://user-images.githubusercontent.com/63207451/131740635-0fb85701-6383-4bd1-bb8a-8148fee5d11e.jpeg)
+</p>
 <br>
 
 <p align="center"><a href="#Index"><img src="http://randojs.com/images/backToTopButton.png" alt="Haut de la page" height="29"/></a></p>
