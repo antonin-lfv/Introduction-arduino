@@ -264,7 +264,6 @@ Contenu de la boite :
 
 Caractéristiques :
 
-<p align="center">
 |Les modes|Les capteurs|
 |---|---|
 |- Évitement d'obstacles|- Capteur ultrasons|
@@ -272,7 +271,6 @@ Caractéristiques :
 |- Suivi d'un objet qui se déplace devant lui|- Caméra|
 |- Vue en première personne| |
 |- Contrôle à distance| |
-	<p/>
 
 <br>
 
