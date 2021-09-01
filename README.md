@@ -241,7 +241,11 @@ On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de 
 
 ## Programmation Arduino avec le Robot Elegoo
 
+### Présentation du robot
+
 <br>
+
+### Montage
 
 <br>
 
