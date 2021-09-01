@@ -33,7 +33,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
         3. [Circuit LED avec interrupteur](#3-Circuit-LED-avec-interrupteur)
         4. [Feu tricolore et piéton](#4-Feu-tricolore-et-piéton)
     3. [Programmation Arduino avec le Robot Elegoo](#Programmation-Arduino-avec-le-Robot-Elegoo)
-        1. [Présentation du robot](#presentation-du-robot)
+        1. [Présentation du robot](#présentation-du-robot)
         2. [Montage](#Montage)
         3. [Test de ses fonctionnalités natives](#Test-de-ses-fonctionnalités-natives)
         4. [re-Programmation du robot](#reProgrammation-du-robot)
@@ -249,12 +249,16 @@ Contenu de la boite :
 
 <br>
 
-|oui|oui|
-|hdi|khbd|
-
-<p align="right">
+<p align="left">
+<img src="https://user-images.githubusercontent.com/63207451/131652126-f72489bb-a37c-4d6c-881f-0e2f7d7f0034.png" height="400">
+	<p/>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131650872-58a341e2-a141-4c84-8338-78201fa76978.jpeg" height="400">
 	<p/>
+<p align="right">
+<img src="https://user-images.githubusercontent.com/63207451/131652194-d1e1caeb-0113-4363-a1ab-843c6352b4fa.png" height="400">
+	<p/>
+
 
 <br>
 
