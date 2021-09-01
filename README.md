@@ -120,6 +120,9 @@ Pour faire clignoter de la LED il faut utiliser la commande digitalWrite qui per
 ### 3. Circuit LED avec interrupteur
 
 - Branchements :
+
+Vous aurez besoin de 6 fils, 1 LED, 1 bouton, 1 résistance de 220Ω (pour la LED) et une résistance de 330Ω (pour le bouton).
+
 <br>
 
 <p align="center">
@@ -147,12 +150,14 @@ void loop() {
   if (buttonState != lastButtonState) {
     lastButtonState = buttonState;
     if (buttonState == LOW) {
-      ledState = (ledState == HIGH) ? LOW: HIGH;
+      ledState = (ledState == HIGH) ? LOW: HIGH; // Si ledState = HIGH alors on lui donne la valeur LOW, sinon il reste à HIGH
       digitalWrite(LED_PIN, ledState);
     }
   }
 }
 ```
+
+On change l'état de la sortie de la LED dès que le bouton est pressé.
 <br>
 
 - Résultat :
