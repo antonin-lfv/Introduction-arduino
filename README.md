@@ -243,7 +243,19 @@ On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de 
 
 ### Présentation du robot
 
-Le robot [Elegoo V4.0](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1) est un robot commandé par une carte Arduino Uno. Ce robot a plusieurs mode, qui sont fournis avec les codes de base du robot :
+Le robot [Elegoo V4.0](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1) est un robot commandé par une carte Arduino Uno. 
+
+Contenu de la boite :
+
+<br>
+
+<p align="right">
+<img src="https://user-images.githubusercontent.com/63207451/131650872-58a341e2-a141-4c84-8338-78201fa76978.jpeg" height="400">
+	<p/>
+
+<br>
+
+Caractéristiques :
 
 |Les modes|Les capteurs|
 |---|---|
@@ -253,11 +265,6 @@ Le robot [Elegoo V4.0](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_gl
 |- Vue en première personne| |
 |- Contrôle à distance| |
 
-Les capteurs fournis sont : 
-
-- Capteur ultrasons 
-- Module de suivi de ligne
-- Caméra
 
 <br>
 
