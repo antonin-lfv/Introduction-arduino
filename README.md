@@ -278,21 +278,15 @@ Caractéristiques :
 
 <br>
 
-Chassis avec les moteurs :
+Plateforme avec la carte arduino, la caméra, le capteur ultrasons et la batterie sur la plateforme des moteurs :
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131740427-8e0de7da-89b4-4e3b-bc3e-2c4fb9dcb53c.jpeg" height="400">
-</p>
-<br>
-
-Chassis avec la carte arduino, la caméra, le capteur ultrasons et la batterie :
-
-<p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131740545-be2181ea-a9ec-4063-9842-f01b64d00cc5.jpeg" height="400">
 </p>
 <br>
 
-Branchements :
+Branchements des composants :
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131740583-e1e404ef-617d-4bbb-963e-ea6c6f4b4c66.jpeg" height="400">
@@ -303,7 +297,18 @@ Robot fini :
 	
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131740635-0fb85701-6383-4bd1-bb8a-8148fee5d11e.jpeg" height="400">
+<img src="https://user-images.githubusercontent.com/63207451/131741265-c1e43240-e979-4644-b434-5a178096cd9d.jpeg" height="400">
 </p>
+<br>
+
+### Test de ses fonctionnalités natives
+
+<br>
+
+<br>
+
+<br>
+
 <br>
 
 <p align="center"><a href="#Index"><img src="http://randojs.com/images/backToTopButton.png" alt="Haut de la page" height="29"/></a></p>
