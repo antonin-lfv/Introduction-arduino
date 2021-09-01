@@ -241,6 +241,8 @@ On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de 
 
 ## Programmation Arduino avec le Robot Elegoo
 
+<br>
+
 ### Présentation du robot
 
 Le robot [Elegoo V4.0](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1) est un robot commandé par une carte Arduino Uno. 
@@ -251,10 +253,12 @@ Contenu de la boite :
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131652126-f72489bb-a37c-4d6c-881f-0e2f7d7f0034.png" height="300">
-<img src="https://user-images.githubusercontent.com/63207451/131650872-58a341e2-a141-4c84-8338-78201fa76978.jpeg" height="400">
 <img src="https://user-images.githubusercontent.com/63207451/131652194-d1e1caeb-0113-4363-a1ab-843c6352b4fa.png" height="300">
 	<p/>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63207451/131650872-58a341e2-a141-4c84-8338-78201fa76978.jpeg" height="400">
+	<p/>
 
 <br>
 
