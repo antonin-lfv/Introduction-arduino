@@ -281,28 +281,28 @@ Caractéristiques :
 Chassis avec les moteurs :
 
 <p align="center">
-![IMG_9688](https://user-images.githubusercontent.com/63207451/131740427-8e0de7da-89b4-4e3b-bc3e-2c4fb9dcb53c.jpeg)
+<img src="https://user-images.githubusercontent.com/63207451/131740427-8e0de7da-89b4-4e3b-bc3e-2c4fb9dcb53c.jpeg" height="400">
 </p>
 <br>
 
 Chassis avec la carte arduino, la caméra, le capteur ultrasons et la batterie :
 
 <p align="center">
-![IMG_9691](https://user-images.githubusercontent.com/63207451/131740545-be2181ea-a9ec-4063-9842-f01b64d00cc5.jpeg)
+<img src="https://user-images.githubusercontent.com/63207451/131740545-be2181ea-a9ec-4063-9842-f01b64d00cc5.jpeg" height="400">
 </p>
 <br>
 
 Branchements :
 
 <p align="center">
-![IMG_9692](https://user-images.githubusercontent.com/63207451/131740583-e1e404ef-617d-4bbb-963e-ea6c6f4b4c66.jpeg)
+<img src="https://user-images.githubusercontent.com/63207451/131740583-e1e404ef-617d-4bbb-963e-ea6c6f4b4c66.jpeg" height="400">
 </p>
 <br>
 
 Robot fini :
 	
 <p align="center">
-![IMG_9694](https://user-images.githubusercontent.com/63207451/131740635-0fb85701-6383-4bd1-bb8a-8148fee5d11e.jpeg)
+<img src="https://user-images.githubusercontent.com/63207451/131740635-0fb85701-6383-4bd1-bb8a-8148fee5d11e.jpeg" height="400">
 </p>
 <br>
 
