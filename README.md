@@ -249,16 +249,10 @@ Contenu de la boite :
 
 <br>
 
-<p align="left">
-<img src="https://user-images.githubusercontent.com/63207451/131652126-f72489bb-a37c-4d6c-881f-0e2f7d7f0034.png" height="400">
-	<p/>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63207451/131652126-f72489bb-a37c-4d6c-881f-0e2f7d7f0034.png" height="400">
+<img src="https://user-images.githubusercontent.com/63207451/131652126-f72489bb-a37c-4d6c-881f-0e2f7d7f0034.png" height="300">
 <img src="https://user-images.githubusercontent.com/63207451/131650872-58a341e2-a141-4c84-8338-78201fa76978.jpeg" height="400">
-<img src="https://user-images.githubusercontent.com/63207451/131652194-d1e1caeb-0113-4363-a1ab-843c6352b4fa.png" height="400">
-	<p/>
-<p align="right">
-<img src="https://user-images.githubusercontent.com/63207451/131652194-d1e1caeb-0113-4363-a1ab-843c6352b4fa.png" height="400">
+<img src="https://user-images.githubusercontent.com/63207451/131652194-d1e1caeb-0113-4363-a1ab-843c6352b4fa.png" height="300">
 	<p/>
 
 
