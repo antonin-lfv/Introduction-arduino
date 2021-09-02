@@ -331,6 +331,10 @@ void eteintDe(){
 
 <br>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63207451/131919109-1b0e7a59-c6cb-4f0d-b29a-cb84a8bcdbe9.gif" height="400">
+	<p/>
+
 <br>
 
 ## Programmation Arduino avec le Robot Elegoo
