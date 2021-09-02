@@ -400,8 +400,6 @@ Robot fini :
 </p>
 <br>
 
-### Test de ses fonctionnalités natives
-
 <br>
 
 <br>
