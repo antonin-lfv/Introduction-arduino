@@ -327,7 +327,7 @@ void eteintDe(){
 
 <br>
 
-- Résultat :
+- Résultat : À chaque changement de luminosité un nombre aléatoire de LED va s'allumer.
 
 <br>
 
