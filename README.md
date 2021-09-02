@@ -32,6 +32,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
         2. [Circuit LED clignotante](#2-Circuit-LED-clignotante)
         3. [Circuit LED avec interrupteur](#3-Circuit-LED-avec-interrupteur)
         4. [Feu tricolore et piéton](#4-Feu-tricolore-et-piéton)
+        5. [Générateur de nombres aléatoires avec photocapteur](#5-générateur-de-nombres-aléatoires-avec-photocapteur)
     3. [Programmation Arduino avec le Robot Elegoo](#Programmation-Arduino-avec-le-Robot-Elegoo)
         1. [Présentation du robot](#présentation-du-robot)
         2. [Montage](#Montage)
@@ -236,6 +237,90 @@ On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/131638632-52da7fbb-754d-4c10-91b9-fba06333820f.gif" height="400">
 	<p/>
+
+<br>
+
+### 5. Générateur de nombres aléatoires avec photocapteur
+
+<br>
+
+- Branchements :
+
+|Le photocapteur |Les LED|
+|---|---|
+|![IMG_9703](https://user-images.githubusercontent.com/63207451/131916385-b3c5d303-e366-4ca8-b60e-288ebe19d089.jpeg)|![IMG_9704](https://user-images.githubusercontent.com/63207451/131916403-d116d186-109f-4fb7-abf8-18de5eb8e5b5.jpeg)|
+
+- Programme :
+
+```c
+const int ECART=60;
+const int TEMPO=2000;
+
+void setup(){
+  randomSeed(analogRead(1));
+  for(int i=2;i<=8;i++){
+    pinMode(i,OUTPUT);
+  } 
+}
+void loop(){
+  int luminosite1=analogRead(0);
+  delay(100);
+  int luminosite2=analogRead(0);
+  if(luminosite2-luminosite1>ECART){
+  
+    afficheDe(random(1,7));
+    delay(TEMPO);
+    eteintDe();
+  }
+}
+void afficheDe(int nombre){
+
+  if(nombre==1){
+    digitalWrite(3,HIGH);
+  }
+  
+  if(nombre==2){
+    digitalWrite(2,HIGH);
+    digitalWrite(6,HIGH);
+  }
+
+  if(nombre==3){
+    digitalWrite(2,HIGH);
+    digitalWrite(6,HIGH);
+    digitalWrite(3,HIGH);
+  }
+
+  if(nombre==4){
+    digitalWrite(2,HIGH);
+    digitalWrite(5,HIGH);
+    digitalWrite(6,HIGH);
+    digitalWrite(8,HIGH);
+  }
+  if(nombre==5){
+    digitalWrite(2,HIGH);
+    digitalWrite(3,HIGH);
+    digitalWrite(6,HIGH);
+    digitalWrite(8,HIGH);
+    digitalWrite(5,HIGH);
+  }
+
+  if(nombre==6){
+    digitalWrite(2,HIGH);
+    digitalWrite(3,HIGH);
+    digitalWrite(4,HIGH);
+    digitalWrite(6,HIGH);
+    digitalWrite(7,HIGH);
+    digitalWrite(8,HIGH);
+  }
+}
+void eteintDe(){
+  for(int i=2;i<=8;i++){
+    digitalWrite(i,LOW);
+  }
+}
+```
+
+- Résultat :
 
 <br>
 
