@@ -251,9 +251,11 @@ On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de 
 |Les LED|<img src="https://user-images.githubusercontent.com/63207451/131916403-d116d186-109f-4fb7-abf8-18de5eb8e5b5.jpeg" height="500">|
 |L'ensemble|<img src="https://user-images.githubusercontent.com/63207451/131916651-ca249960-5d1c-4af4-b562-bde6b5f72509.jpeg" height="400">|
 
-
+<br>
 
 - Programme :
+
+<br>
 
 ```c
 const int ECART=60;
@@ -323,7 +325,11 @@ void eteintDe(){
 }
 ```
 
+<br>
+
 - Résultat :
+
+<br>
 
 <br>
 
