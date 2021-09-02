@@ -247,6 +247,7 @@ On ajoute temps_traversee pour gérer les piétons ou voitures qui finissent de 
 - Branchements :
 
 |Le photocapteur |<img src="https://user-images.githubusercontent.com/63207451/131916385-b3c5d303-e366-4ca8-b60e-288ebe19d089.jpeg" height="400">|
+|---|---|
 |Les LED|<img src="https://user-images.githubusercontent.com/63207451/131916403-d116d186-109f-4fb7-abf8-18de5eb8e5b5.jpeg" height="400">|
 
 L'ensemble :
