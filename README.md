@@ -70,7 +70,7 @@ La première fonction **setup** est automatiquement exécutée une seule fois lo
 La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que nous allons mettre les instructions pour controler l'alimentation notamment.  <br>
 <br>
 
-- Pour la partie **électronique**, j'utilise une carte Arduino Elegoo disponible avec le robot [Elegoo](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1) , la carte Arduino **Uno** de Elegoo disponible [ici](https://www.amazon.fr/gp/product/B01N91PVIS/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) et la carte Arduino Nano disponible avec le kit [Smraza](https://www.amazon.fr/gp/product/B01L1XRUKW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Pour la breadboard et tous les composants j'ai acheté un [kit de composants](https://www.amazon.fr/dp/B093BZVCT2/ref=cm_sw_r_cp_api_glt_i_WCNA03QZNRC70HV5HRB7?_encoding=UTF8&psc=1) sur Amazon.
+- Pour la partie **électronique**, j'utilise une **carte Arduino Elegoo** disponible avec le robot [Elegoo](https://www.amazon.fr/dp/B078Y9RYM2/ref=cm_sw_r_cp_api_glt_i_dl_2B12HJED9FP60AX0EKTV?_encoding=UTF8&psc=1) , la carte **Arduino Uno** de Elegoo disponible [ici](https://www.amazon.fr/gp/product/B01N91PVIS/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) et la carte **Arduino Nano** disponible avec le kit [Smraza](https://www.amazon.fr/gp/product/B01L1XRUKW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Pour la breadboard et tous les composants j'ai acheté un [kit de composants](https://www.amazon.fr/dp/B093BZVCT2/ref=cm_sw_r_cp_api_glt_i_WCNA03QZNRC70HV5HRB7?_encoding=UTF8&psc=1) sur Amazon.
 
 <br>
 
