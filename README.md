@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-Ce repository est une introduction à la robotique. Je vais utiliser pour cela divers outils électroniques, comme les cartes Arduino Uno et Nano avec lesquelles je ferai dans un premier temps des circuits électriques simples, avec des LED, des résistances etc. Puis j'utiliserai un RaspberryPi. Ensuite, je mettrai les compétences acquises avec ces outils en œuvre, au travers de projets concrets sur robots à l'aide d'<b>Arduino</b>, de <b>RaspberryPi</b>, et également avec l'utilisation du système d'exploitation <b>ROS</b> (Robot Operating System). Cette documentation est faite dans un premier temps pour mon propre apprentissage mais pourra également être utile pour toute personne souhaitant se lancer dans la robotique.
+Ce repository est une introduction à la robotique. Je vais utiliser pour cela divers outils électroniques, comme la carte Arduino Uno avec laquelle je ferai dans un premier temps des circuits électriques simples, avec des LED, des résistances, des photocapteurs, des panneaux digitaux etc. Puis j'utiliserai un RaspberryPi. Ensuite, je mettrai les compétences acquises avec ces outils en œuvre, au travers de projets concrets sur robots à l'aide d'<b>Arduino</b>, de <b>RaspberryPi</b>, et également avec l'utilisation du système d'exploitation <b>ROS</b> (Robot Operating System). Cette documentation est faite dans un premier temps pour mon propre apprentissage mais pourra également être utile pour toute personne souhaitant se lancer dans la robotique.
 Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto, et les achats que je ferai.
 <br>
 <p/>
@@ -70,7 +70,7 @@ La première fonction **setup** est automatiquement exécutée une seule fois lo
 La deuxième fonction **loop** s'exécute indéfiniment en boucle, c'est là que nous allons mettre les instructions pour controler l'alimentation notamment.  <br>
 <br>
 
-- Pour la partie **électronique**, j'utilise une carte **Arduino Uno** de Elegoo disponible [ici](https://www.amazon.fr/gp/product/B01N91PVIS/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) et la carte **Arduino Nano** disponible avec le kit [Smraza](https://www.amazon.fr/gp/product/B01L1XRUKW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Pour la breadboard et tous les composants j'ai acheté un [kit de composants](https://www.amazon.fr/dp/B093BZVCT2/ref=cm_sw_r_cp_api_glt_i_WCNA03QZNRC70HV5HRB7?_encoding=UTF8&psc=1) sur Amazon.
+- Pour la partie **électronique**, j'utilise une carte **Arduino Uno** de Elegoo disponible [ici](https://www.amazon.fr/gp/product/B01N91PVIS/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) et la carte **Arduino Uno** de Smraza disponible avec le kit [Smraza](https://www.amazon.fr/gp/product/B01L1XRUKW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Pour la breadboard et tous les composants j'ai acheté un [kit de composants](https://www.amazon.fr/dp/B093BZVCT2/ref=cm_sw_r_cp_api_glt_i_WCNA03QZNRC70HV5HRB7?_encoding=UTF8&psc=1) sur Amazon. (En plus de la petite breadboard du kit Smraza)
 
 <br>
 
