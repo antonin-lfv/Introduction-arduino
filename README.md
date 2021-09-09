@@ -483,6 +483,19 @@ Robot fini :
 
 <br>
 
+# ROS : Robot Operating System
+
+## Introduction
+
+
+Les cadres logiciels basés sur ROS exécutent les algorithmes et processus de haut niveau tels que l'inférence des modèles de robot, le filtrage, la génération de stratégies de mouvement, les algorithmes de contrôle, etc. Un contrôleur monté sur un robot est utilisé pour effectuer le contrôle et la détection de bas niveau/embarqué. Il comprend tout ou partie de la commande du moteur, des capteurs de température et à ultrasons, des IMU et des encodeurs de roue, ainsi que d'autres dispositifs.
+
+<br>
+
+<p align="center">
+<img width="727" alt="Capture d’écran 2021-09-09 à 18 02 21" src="https://user-images.githubusercontent.com/63207451/132721488-a5ea48c8-5148-4a02-b3d4-9828a7031845.png">
+</p>
+
 <br>
 
 <p align="center"><a href="#Index"><img src="http://randojs.com/images/backToTopButton.png" alt="Haut de la page" height="29"/></a></p>
