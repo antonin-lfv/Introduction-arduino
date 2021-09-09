@@ -40,7 +40,6 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
         1. [Présentation du robot](#présentation-du-robot)
         2. [Montage](#Montage)
         3. [Test de ses fonctionnalités natives](#Test-de-ses-fonctionnalités-natives)
-        4. [re-Programmation du robot](#reProgrammation-du-robot)
 2. [RaspberryPi](#RaspberryPi)
 3. [ROS](#Ros)
     1. [Introduction](#Introduction)
