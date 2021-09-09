@@ -33,6 +33,7 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
         3. [Circuit LED avec interrupteur](#3-Circuit-LED-avec-interrupteur)
         4. [Feu tricolore et piéton](#4-Feu-tricolore-et-piéton)
         5. [Générateur de nombres aléatoires avec photocapteur](#5-générateur-de-nombres-aléatoires-avec-photocapteur)
+        6. [Compte à rebours 4-digits](#6-Compte-à-rebours)
     3. [Programmation Arduino avec le Robot Elegoo](#Programmation-Arduino-avec-le-Robot-Elegoo)
         1. [Présentation du robot](#présentation-du-robot)
         2. [Montage](#Montage)
@@ -336,6 +337,81 @@ void eteintDe(){
 	<p/>
 
 <br>
+
+### 6. Compte à rebours
+
+- Branchements :
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63207451/132715727-6086545f-638c-4c58-91bc-210944b8b87f.png" height="400">
+	<p/>
+
+<br>
+
+- Programme :
+
+```c
+#define NUM_OF_DIGITS 4
+
+int latch = 4; //74HC595  pin 9 STCP
+int cs = 5; //74HC595  pin 10 SHCP
+int data = 3; //74HC595  pin 8 DS
+int dPins[4] = {11, 10, 9, 8};
+
+unsigned char table[] = {0xc0, 0xf9, 0xa4, 0xb0, 0x99, 0x92, 0x82, 0xf8, 0x80, 0x90};
+
+int digit_data[NUM_OF_DIGITS] = {0};
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(latch, OUTPUT);
+  pinMode(cs, OUTPUT);
+  pinMode(data, OUTPUT);
+
+  for (int j = 0; j < NUM_OF_DIGITS; j++) pinMode(dPins[j], OUTPUT);
+
+}
+
+void loop() {
+
+  for (int mill=9; mill>0; mill--){
+    for (int cent=9; cent>0; cent--){
+      for (int diz=9; diz>0; diz--){
+        for (int unite=9; unite>0; unite--){
+            Display(3,unite);
+            delay(5);
+            Display(2,diz);
+            delay(5);
+            Display(1,cent);
+            delay(5);
+            Display(0,mill);
+            delay(5);
+          }
+       }
+     }
+   }
+ }
+
+
+void Display(int id, unsigned char num)
+{
+  digitalWrite(latch, LOW);
+  shiftOut(data, cs, MSBFIRST, table[num]);
+  digitalWrite(latch, HIGH);
+  for (int j = 0; j < NUM_OF_DIGITS; j++) digitalWrite(dPins[j], LOW);
+  digitalWrite(dPins[id], HIGH);
+}
+
+```
+
+<br>
+
+- Résultat :
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63207451/132716450-f2746ba2-9013-4749-974c-382d457e831f.gif" height="400">
+	<p/>
+
 <br>
 
 ## Programmation Arduino avec le Robot Elegoo
