@@ -409,7 +409,7 @@ void Display(int id, unsigned char num)
 - Résultat :
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63207451/132716450-f2746ba2-9013-4749-974c-382d457e831f.gif" height="400">
+<img src="https://user-images.githubusercontent.com/63207451/132717750-c9e3c9e1-ebe9-477d-8a83-fb92adfa66f6.gif" height="500">
 	<p/>
 
 <br>
