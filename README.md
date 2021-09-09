@@ -374,10 +374,10 @@ void setup() {
 
 void loop() {
 
-  for (int mill=9; mill>0; mill--){
-    for (int cent=9; cent>0; cent--){
-      for (int diz=9; diz>0; diz--){
-        for (int unite=9; unite>0; unite--){
+  for (int mill=9; mill>-1; mill--){
+    for (int cent=9; cent>-1; cent--){
+      for (int diz=9; diz>-1; diz--){
+        for (int unite=9; unite>-1; unite--){
             Display(3,unite);
             delay(5);
             Display(2,diz);
