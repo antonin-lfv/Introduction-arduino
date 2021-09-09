@@ -48,6 +48,8 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 
 # La carte Arduino
 
+<br>
+
 ## Premiers pas avec la carte
 
 ### 1. Matériel
@@ -485,6 +487,8 @@ Robot fini :
 <br>
 
 # ROS : Robot Operating System
+
+<br>
 
 ## Introduction
 
