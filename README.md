@@ -51,8 +51,6 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 
 <br>
 
-[oui](#robotique)
-
 ## Premiers pas avec la carte
 
 ### 1. Matériel
