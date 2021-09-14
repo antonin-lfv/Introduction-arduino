@@ -514,7 +514,8 @@ Les cadres logiciels basés sur ROS exécutent les algorithmes et processus de h
 <br>
 
 <p align="center">
-<img width="727" alt="Capture d’écran 2021-09-09 à 18 02 21" src="https://user-images.githubusercontent.com/63207451/132721488-a5ea48c8-5148-4a02-b3d4-9828a7031845.png">
+<img width="727" alt="Capture d’écran 2021-09-14 à 14 49 29" src="https://user-images.githubusercontent.com/63207451/133260634-f0c43709-ad94-49b2-a260-c3926f15433d.png">
+
 </p>
 
 <br>
