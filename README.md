@@ -483,6 +483,13 @@ Robot fini :
 
 <br>
 
+### Test de ses fonctionnalités natives
+
+1. Le suivi de ligne (Line tracking)
+
+<img src="https://user-images.githubusercontent.com/63207451/133257446-e9e7af35-4d14-494b-b607-dc2eb23232ef.gif" height="400">
+
+
 <br>
 
 <br>
