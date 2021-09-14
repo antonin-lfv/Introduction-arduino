@@ -487,13 +487,18 @@ Robot fini :
 
 1. Le suivi de ligne (Line tracking)
 
-<u>test<u/>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/133257446-e9e7af35-4d14-494b-b607-dc2eb23232ef.gif" height="400">
 </p>
 
 <br>
+
+2. Évitement d'obstacles (Obstacle-avoidance)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63207451/133259684-3de0b935-8b99-4614-afdb-371123dce212.gif" height="400">
+</p>
+
 
 <br>
 
