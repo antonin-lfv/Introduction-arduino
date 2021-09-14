@@ -487,7 +487,7 @@ Robot fini :
 
 1. Le suivi de ligne (Line tracking)
 
-<u>test</u>
+<u>test<u/>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63207451/133257446-e9e7af35-4d14-494b-b607-dc2eb23232ef.gif" height="400">
