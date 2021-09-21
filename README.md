@@ -28,21 +28,21 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 
 # Index
 
-1. [La carte Arduino](#La-carte-Arduino)
-    1. [Premiers pas avec la carte](#Premiers-pas-avec-la-carte)
-        1. [Matériel](#1-Matériel)
-        2. [Circuit LED clignotante](#2-Circuit-LED-clignotante)
-        3. [Circuit LED avec interrupteur](#3-Circuit-LED-avec-interrupteur)
-        4. [Feu tricolore et piéton](#4-Feu-tricolore-et-piéton)
+1. [La carte Arduino](#la-carte-arduino)
+    1. [Premiers pas avec la carte](#premiers-pas-avec-la-carte)
+        1. [Matériel](#1-matériel)
+        2. [Circuit LED clignotante](#2-circuit-led-clignotante)
+        3. [Circuit LED avec interrupteur](#3-circuit-led-avec-interrupteur)
+        4. [Feu tricolore et piéton](#4-feu-tricolore-et-piéton)
         5. [Générateur de nombres aléatoires avec photocapteur](#5-générateur-de-nombres-aléatoires-avec-photocapteur)
-        6. [Compte à rebours 4-digits](#6-Compte-à-rebours)
-    3. [Programmation Arduino avec le Robot Elegoo](#Programmation-Arduino-avec-le-Robot-Elegoo)
+        6. [Compte à rebours 4-digits](#6-compte-à-rebours)
+    3. [Programmation Arduino avec le Robot Elegoo](#programmation-arduino-avec-le-robot-elegoo)
         1. [Présentation du robot](#présentation-du-robot)
-        2. [Montage](#Montage)
-        3. [Test de ses fonctionnalités natives](#Test-de-ses-fonctionnalités-natives)
-2. [RaspberryPi](#RaspberryPi)
-3. [ROS](#Ros)
-    1. [Introduction](#Introduction)
+        2. [Montage](#montage)
+        3. [Test de ses fonctionnalités natives](#test-de-ses-fonctionnalités-natives)
+2. [RaspberryPi](#raspberrypi)
+3. [ROS](#ros)
+    1. [Introduction](#introduction)
 
 <br>
 <br>
