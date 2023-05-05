@@ -3,7 +3,7 @@
 <p/>
 
 
-<h1 align="center">Robotique</h1>
+<h1 align="center">Arduino</h1>
 
 <br>
 
