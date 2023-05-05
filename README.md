@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-Ce repository est une introduction à la robotique. Je vais utiliser pour cela divers outils électroniques, comme la carte Arduino Uno avec laquelle je ferai dans un premier temps des circuits électriques simples, avec des LED, des résistances, des photocapteurs, des panneaux digitaux etc. Puis j'utiliserai un RaspberryPi. Ensuite, je mettrai les compétences acquises avec ces outils en œuvre, au travers de projets concrets sur robots à l'aide d'<b>Arduino</b>, de <b>RaspberryPi</b>, et également avec l'utilisation du système d'exploitation <b>ROS</b> (Robot Operating System). Cette documentation est faite dans un premier temps pour mon propre apprentissage mais pourra également être utile pour toute personne souhaitant se lancer dans la robotique.
+Ce repository est une introduction à la robotique avec Arduino. Je vais utiliser pour cela divers outils électroniques, comme la carte Arduino Uno avec laquelle je ferai dans un premier temps des circuits électriques simples, avec des LED, des résistances, des photocapteurs, des panneaux digitaux etc. Cette documentation est faite dans un premier temps pour mon propre apprentissage mais pourra également être utile pour toute personne souhaitant se lancer dans la robotique.
 Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto, et les achats que je ferai.
 <br>
 <p/>
@@ -28,26 +28,19 @@ Je partagerai toutes les ressources, tels que les documentations, vidéos, tuto,
 
 # Index
 
-1. [La carte Arduino](#la-carte-arduino)
-    1. [Premiers pas avec la carte](#premiers-pas-avec-la-carte)
-        1. [Matériel](#1-matériel)
-        2. [Circuit LED clignotante](#2-circuit-led-clignotante)
-        3. [Circuit LED avec interrupteur](#3-circuit-led-avec-interrupteur)
-        4. [Feu tricolore et piéton](#4-feu-tricolore-et-piéton)
-        5. [Générateur de nombres aléatoires avec photocapteur](#5-générateur-de-nombres-aléatoires-avec-photocapteur)
-        6. [Compte à rebours 4-digits](#6-compte-à-rebours)
-    3. [Programmation Arduino avec le Robot Elegoo](#programmation-arduino-avec-le-robot-elegoo)
-        1. [Présentation du robot](#présentation-du-robot)
-        2. [Montage](#montage)
-        3. [Test de ses fonctionnalités natives](#test-de-ses-fonctionnalités-natives)
-2. [RaspberryPi](#raspberrypi)
-3. [ROS](#ros)
-    1. [Introduction](#introduction)
+1. [Premiers pas avec la carte](#premiers-pas-avec-la-carte)
+    1. [Matériel](#1-matériel)
+    2. [Circuit LED clignotante](#2-circuit-led-clignotante)
+    3. [Circuit LED avec interrupteur](#3-circuit-led-avec-interrupteur)
+    4. [Feu tricolore et piéton](#4-feu-tricolore-et-piéton)
+    5. [Générateur de nombres aléatoires avec photocapteur](#5-générateur-de-nombres-aléatoires-avec-photocapteur)
+    6. [Compte à rebours 4-digits](#6-compte-à-rebours)
+3. [Programmation Arduino avec le Robot Elegoo](#programmation-arduino-avec-le-robot-elegoo)
+    1. [Présentation du robot](#présentation-du-robot)
+    2. [Montage](#montage)
+    3. [Test de ses fonctionnalités natives](#test-de-ses-fonctionnalités-natives)
 
 <br>
-<br>
-
-# La carte Arduino
 
 <br>
 
@@ -500,27 +493,6 @@ Robot fini :
 <img src="https://user-images.githubusercontent.com/63207451/133259684-3de0b935-8b99-4614-afdb-371123dce212.gif" height="400">
 </p>
 
-
-<br>
-<br>
-
-# ROS : Robot Operating System
-
-<br>
-
-## Introduction
-
-
-Les cadres logiciels basés sur ROS exécutent les algorithmes et processus de haut niveau tels que l'inférence des modèles de robot, le filtrage, la génération de stratégies de mouvement, les algorithmes de contrôle, etc. Un contrôleur monté sur un robot est utilisé pour effectuer le contrôle et la détection de bas niveau/embarqué. Il comprend tout ou partie de la commande du moteur, des capteurs de température et à ultrasons, des IMU et des encodeurs de roue, ainsi que d'autres dispositifs.
-
-<br>
-
-<p align="center">
-<img width="727" alt="Capture d’écran 2021-09-14 à 14 49 29" src="https://user-images.githubusercontent.com/63207451/133260634-f0c43709-ad94-49b2-a260-c3926f15433d.png">
-
-</p>
-
-<br>
 <br>
 <br>
 
